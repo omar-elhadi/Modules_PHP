@@ -1,0 +1,6 @@
+ul div {
+    display: flex;
+    flex-direction: row;
+    gap: 13rem;
+    margin-bottom: 1.5rem;
+}

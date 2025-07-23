@@ -1,0 +1,15 @@
+table{
+    margin: 0 auto;
+}
+
+table tr {
+    display: flex;
+    flex-direction: row;
+    gap: 50rem;
+    margin-bottom: 1.5rem;
+}
+
+tr, th, td {
+    border: 1px solid black;
+    padding: 1rem;
+}
